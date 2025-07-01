@@ -9,7 +9,7 @@
   "Detect_Not_installed": [
 
     {
-      "package": "com.google.android.youtube",
+      "package": "com.googlfe.android.youtube",
       "status": true,
       "not_installed_error_message": "Stopped"
     }
